@@ -1,0 +1,13 @@
+style.css
+alert("assalamualaikum")
+alert("helloo")
+alert("emmm sebelum nyaa sorry yaa!!")
+alert("mau minta maaff🙏")
+alert("kesalahan yg kemarin jngan di simpan di hatii ya😅")
+alert("jangan dendam")
+alert("intinya mau minta maaff🙏")
+alert("kalo masi marah seng ppa sih😅")
+alert("itu hak masing masing")
+alert("tapi intinya Sorry, I hope that later we can still be friends again and no longer strangers")
+alert("minal aidzin wal faidzin mohon maaf lahir batin🙏")
+alert("--mitha mukadar--")
